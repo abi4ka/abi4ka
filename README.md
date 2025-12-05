@@ -1,16 +1,16 @@
 # 👋 Hi! I'm Abik
 
-I'm a developer with more than **5 years of experience**, and game development is my biggest passion.
-I enjoy building game worlds from scratch — mechanics, visuals, optimization, and everything in between.
+I'm a developer with over **5 years of experience**, and game development is my biggest passion. I enjoy creating game systems, mechanics, and visuals, experimenting with different art styles, and exploring new technologies. I also work with backend development, automation tools, and various software for both programming and content creation.
 
 ---
 
 ## 🧑‍💻 About Me
 
-* I love combining **game development**, **backend work**, and **automation tools**
-* Always learning new technologies
-* Focused on clean architecture and efficient workflows
-* Experienced with 3D graphics, pixel art, and game engines
+* Strong interest in **game development**, from gameplay logic to visuals
+* Experience with 3D graphics, pixel art, and multiple game engines
+* Enjoy combining backend, tools, and game mechanics into complete projects
+* Always learning new technologies and improving my workflow
+* Focused on clean, maintainable architecture
 
 ---
 
@@ -19,7 +19,7 @@ I enjoy building game worlds from scratch — mechanics, visuals, optimization, 
 * Russian
 * Ukrainian
 * Spanish
-* English
+* English (US)
 
 ---
 
@@ -42,23 +42,14 @@ I enjoy building game worlds from scratch — mechanics, visuals, optimization, 
 ### **Engines & Software**
 
 * Unity (3D, URP)
-* Android Studio
 * Godot (2D)
+* Android Studio
 * 3ds Max
 * Aseprite
 * Twinmotion
 
 ---
 
-## 🎮 What I Do
-
-* Develop games, systems, and gameplay mechanics
-* Experiment with visual styles (voxels, pixel art, low-poly)
-* Build applications and services with Java / Python
-* Explore new tools, patterns, and technologies for game development
-
----
-
 ## 📫 Contact
 
-Discord: abi4ka
+Discord: **abi4ka**
