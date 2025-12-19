@@ -28,7 +28,7 @@ I'm a developer with over **5 years of experience**, and game development is my 
 ### **Programming Languages**
 
 * Java
-  * Spring Boot
+  * Spring
 * Python
   * Django
 * C#
