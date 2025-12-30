@@ -19,7 +19,7 @@ I'm a developer with over **5 years of experience**, and game development is my 
 * Russian
 * Ukrainian
 * Spanish
-* English (US)
+* English
 
 ---
 
