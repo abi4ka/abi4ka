@@ -1,10 +1,10 @@
-# 👋 Hi! I'm Abik
+# Hi! I'm Abik
 
 I'm a developer with over **5 years of experience**, and game development is my biggest passion. I enjoy creating game systems, mechanics, and visuals, experimenting with different art styles, and exploring new technologies. I also work with backend development, automation tools, and various software for both programming and content creation.
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 * Strong interest in **game development**, from gameplay logic to visuals
 * Experience with 3D graphics, pixel art, and multiple game engines
@@ -14,7 +14,7 @@ I'm a developer with over **5 years of experience**, and game development is my 
 
 ---
 
-## 🌐 Languages I Speak
+## Languages I Speak
 
 * Russian
 * Ukrainian
@@ -23,7 +23,7 @@ I'm a developer with over **5 years of experience**, and game development is my 
 
 ---
 
-## 🛠️ Technologies I Work With
+## Technologies I Work With
 
 ### **Programming Languages**
 
@@ -47,6 +47,6 @@ I'm a developer with over **5 years of experience**, and game development is my 
 
 ---
 
-## 📫 Contact
+## Contact
 
 Discord: **abi4ka**
