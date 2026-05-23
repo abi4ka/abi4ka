@@ -23,7 +23,7 @@ I'm a developer with over **5 years of experience** building reliable and mainta
 
 * Java
 * Python
-* SQL / PostgreSQL
+* SQL
 * C#
 
 ### Frameworks
@@ -36,6 +36,7 @@ I'm a developer with over **5 years of experience** building reliable and mainta
 * AWS
 * Azure
 * Android Studio
+* PostgreSQL
 * Unity (3D, URP)
 * Godot (2D)
 
